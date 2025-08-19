@@ -13,7 +13,7 @@
     <channel update="i" site="programetv.ro" site_id="animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
     <channel update="i" site="programetv.ro" site_id="animal-planet-hd" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
     <channel update="i" site="programetv.ro" site_id="antena-1" xmltv_id="Antena 1">Antena 1</channel>
-    <channel update="i" site="programetv.ro" site_id="antena-1-hd" xmltv_id="Antena 1 HD">Antena 1 HD</channel>
+    <channel update="i" site="programetv.ro" site_id="5142" xmltv_id="Antena 1 HD">Antena 1 HD</channel>
     <channel update="i" site="programetv.ro" site_id="antena-3" xmltv_id="Antena 3">Antena 3</channel>
     <channel update="i" site="programetv.ro" site_id="antena-3-hd" xmltv_id="Antena 3 HD">Antena 3 HD</channel>
     <channel update="i" site="programetv.ro" site_id="antena-international" xmltv_id="Antena International">Antena International</channel>
@@ -227,7 +227,7 @@
     <channel update="i" site="programetv.ro" site_id="pro-cinema-hd" xmltv_id="PRO CINEMA HD">PRO CINEMA HD</channel>
     <channel update="i" site="programetv.ro" site_id="pro-gold-hd" xmltv_id="PRO GOLD HD">PRO GOLD HD</channel>
     <channel update="i" site="programetv.ro" site_id="pro-tv" xmltv_id="PRO TV">PRO TV</channel>
-    <channel update="i" site="programetv.ro" site_id="pro-tv-hd" xmltv_id="PRO TV HD">PRO TV HD</channel>
+    <channel update="i" site="programetv.ro" site_id="5181" xmltv_id="PRO TV HD">PRO TV HD</channel>
     <channel update="i" site="programetv.ro" site_id="pro-x" xmltv_id="PRO X">PRO X</channel>
     <channel update="i" site="programetv.ro" site_id="pro-x-hd" xmltv_id="PRO X HD">PRO X HD</channel>
     <channel update="i" site="programetv.ro" site_id="profit-ro" xmltv_id="Profit.ro">Profit.ro</channel>
@@ -318,4 +318,5 @@
     <channel update="i" site="programetv.ro" site_id="zu-tv" xmltv_id="ZU TV">ZU TV</channel>
     <channel update="i" site="programetv.ro" site_id="zu-tv-hd" xmltv_id="ZU TV HD">ZU TV HD</channel>
   </channels>
+
 </site>
