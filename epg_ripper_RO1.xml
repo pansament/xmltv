@@ -1,0 +1,2166 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="none" generator-info-url="none">
+  <channel id="RTL.HÁROM.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rtl-harom.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rtl-harom.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">RTL HÁROM</display-name>
+  </channel>
+  <channel id="Pro.7.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/pro-7.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/pro-7.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Pro 7</display-name>
+  </channel>
+  <channel id="Kanal.D2.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/kanal-d2.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/kanal-d2.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Kanal D2</display-name>
+  </channel>
+  <channel id="France.5.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/france-5.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/france-5.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">France 5</display-name>
+  </channel>
+  <channel id="Digi.4K.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-4k.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-4k.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Digi 4K</display-name>
+  </channel>
+  <channel id="Rock.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rock-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rock-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Rock TV</display-name>
+  </channel>
+  <channel id="Brazzers.TV.Europe.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/brazzers-tv-europe.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/brazzers-tv-europe.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Brazzers TV Europe</display-name>
+  </channel>
+  <channel id="Dorcel.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/dorcel-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/dorcel-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Dorcel TV</display-name>
+  </channel>
+  <channel id="FILM.CAFE.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/film-cafe-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/film-cafe-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">FILM CAFE HD</display-name>
+  </channel>
+  <channel id="Story4.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/story4.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/story4.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Story4</display-name>
+  </channel>
+  <channel id="PRO.TV.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/pro-tv-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/pro-tv-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">PRO TV HD</display-name>
+  </channel>
+  <channel id="Fashion.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/fashion-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/fashion-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Fashion TV</display-name>
+  </channel>
+  <channel id="Digi.24.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-24-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-24-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Digi 24 HD</display-name>
+  </channel>
+  <channel id="Fashion.Box.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/fashion-box-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/fashion-box-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Fashion Box HD</display-name>
+  </channel>
+  <channel id="CGTN.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cgtn.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cgtn.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">CGTN</display-name>
+  </channel>
+  <channel id="Fast.&amp;.FunBox.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/fast-fun-box-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/fast-fun-box-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Fast &amp; FunBox HD</display-name>
+  </channel>
+  <channel id="TVR.Moldova.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-moldova.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-moldova.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TVR Moldova</display-name>
+  </channel>
+  <channel id="TV2.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tv2.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tv2.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TV2</display-name>
+  </channel>
+  <channel id="France.24.En.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/france-24-en.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/france-24-en.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">France 24 En</display-name>
+  </channel>
+  <channel id="Bollywood.Clasic.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/bollywood-clasic.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/bollywood-clasic.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Bollywood Clasic</display-name>
+  </channel>
+  <channel id="Antena.Stars.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-stars-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-stars-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Antena Stars HD</display-name>
+  </channel>
+  <channel id="TVR.3.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-3.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-3.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TVR 3</display-name>
+  </channel>
+  <channel id="MTV.80s.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mtv-80s.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mtv-80s.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">MTV 80s</display-name>
+  </channel>
+  <channel id="TeenNick.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/teennick.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/teennick.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TeenNick</display-name>
+  </channel>
+  <channel id="Kanal.D.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/kanal-d-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/kanal-d-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Kanal D HD</display-name>
+  </channel>
+  <channel id="Magic.TV.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/magic-tv-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/magic-tv-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Magic TV HD</display-name>
+  </channel>
+  <channel id="TVR.2.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-2.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-2.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TVR 2</display-name>
+  </channel>
+  <channel id="Travel.Channel.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/travel-channel.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Travel Channel</display-name>
+  </channel>
+  <channel id="24.Mix.Teleshop.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/24-mix-teleshop.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/24-mix-teleshop.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">24 Mix Teleshop</display-name>
+  </channel>
+  <channel id="Inedit.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/inedit-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/inedit-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Inedit TV</display-name>
+  </channel>
+  <channel id="Prima.News.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-news.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-news.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Prima News</display-name>
+  </channel>
+  <channel id="CNN.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cnn.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cnn.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">CNN</display-name>
+  </channel>
+  <channel id="Prima.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Prima TV</display-name>
+  </channel>
+  <channel id="Aleph.Business.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/aleph-business-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/aleph-business-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Aleph Business HD</display-name>
+  </channel>
+  <channel id="Mooz.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mooz-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mooz-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Mooz HD</display-name>
+  </channel>
+  <channel id="AXN.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/axn-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/axn-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">AXN HD</display-name>
+  </channel>
+  <channel id="Mooz.Dance.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mooz-dance-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mooz-dance-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Mooz Dance HD</display-name>
+  </channel>
+  <channel id="Digi.World.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-world.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-world.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Digi World</display-name>
+  </channel>
+  <channel id="AXN.Spin.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/axn-spin.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/axn-spin.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">AXN Spin</display-name>
+  </channel>
+  <channel id="M4.Sport.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/m4-sport-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/m4-sport-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">M4 Sport HD</display-name>
+  </channel>
+  <channel id="Digi.Sport.1.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-1-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-1-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Digi Sport 1 HD</display-name>
+  </channel>
+  <channel id="Euronews.Romania.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/euronews-romania-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/euronews-romania-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Euronews Romania HD</display-name>
+  </channel>
+  <channel id="Viasat.History.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/viasat-history-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/viasat-history-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Viasat History HD</display-name>
+  </channel>
+  <channel id="Party.Mix.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/party-mix-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/party-mix-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Party Mix HD</display-name>
+  </channel>
+  <channel id="Digi.Sport.4.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-4-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-4-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Digi Sport 4 HD</display-name>
+  </channel>
+  <channel id="ID.Investigation.Discovery.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/id-xtra-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/id-xtra-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">ID Investigation Discovery HD</display-name>
+  </channel>
+  <channel id="Sens.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/sens-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/sens-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Sens TV</display-name>
+  </channel>
+  <channel id="Prima.Sport.1.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-sport-1-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-sport-1-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Prima Sport 1 HD</display-name>
+  </channel>
+  <channel id="Magic.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/magic-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/magic-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Magic TV</display-name>
+  </channel>
+  <channel id="ID.Investigation.Discovery.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/id-investigation-discovery.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/id-investigation-discovery.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">ID Investigation Discovery</display-name>
+  </channel>
+  <channel id="Viasat.Nature.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/viasat-nature.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/viasat-nature.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Viasat Nature</display-name>
+  </channel>
+  <channel id="Alfa.Omega.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/alfa-omega-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/alfa-omega-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Alfa Omega TV</display-name>
+  </channel>
+  <channel id="Mezzo.Live.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mezzo-live-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mezzo-live-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Mezzo Live HD</display-name>
+  </channel>
+  <channel id="N-TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/n-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/n-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">N-TV</display-name>
+  </channel>
+  <channel id="VTV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/vtv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/vtv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">VTV</display-name>
+  </channel>
+  <channel id="Prima.TV.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-tv-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-tv-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Prima TV HD</display-name>
+  </channel>
+  <channel id="RTL.Gold.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rtl-gold.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rtl-gold.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">RTL Gold</display-name>
+  </channel>
+  <channel id="Favorit.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/favorit.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/favorit.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Favorit</display-name>
+  </channel>
+  <channel id="M4.Sport.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/m4-sport.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/m4-sport.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">M4 Sport</display-name>
+  </channel>
+  <channel id="PRO.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/pro-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/pro-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">PRO TV</display-name>
+  </channel>
+  <channel id="Cartoonito.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cartoonito.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cartoonito.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Cartoonito</display-name>
+  </channel>
+  <channel id="Kanal.D2.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/kanal-d2-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/kanal-d2-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Kanal D2 HD</display-name>
+  </channel>
+  <channel id="Viasat.Explore.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/viasat-explore.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/viasat-explore.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Viasat Explore</display-name>
+  </channel>
+  <channel id="Antena.International.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-international.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-international.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Antena International</display-name>
+  </channel>
+  <channel id="Motorvision+.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/motorvision-plus-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/motorvision-plus-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Motorvision+ HD</display-name>
+  </channel>
+  <channel id="AXN.Black.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/axn-black.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/axn-black.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">AXN Black</display-name>
+  </channel>
+  <channel id="Rai.1.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rai-1.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rai-1.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Rai 1</display-name>
+  </channel>
+  <channel id="Private.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/private-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/private-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Private TV</display-name>
+  </channel>
+  <channel id="Filmbox.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/filmbox.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/filmbox.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Filmbox</display-name>
+  </channel>
+  <channel id="SuperOne.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/superone-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">SuperOne HD</display-name>
+  </channel>
+  <channel id="DocuBox.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/docu-box-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/docu-box-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">DocuBox HD</display-name>
+  </channel>
+  <channel id="Prima.Sport.3.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-sport-3-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-sport-3-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Prima Sport 3 HD</display-name>
+  </channel>
+  <channel id="Museum.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/museum-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/museum-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Museum HD</display-name>
+  </channel>
+  <channel id="Minimax.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/minimax.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/minimax.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Minimax</display-name>
+  </channel>
+  <channel id="France.3.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/france-3.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/france-3.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">France 3</display-name>
+  </channel>
+  <channel id="MTV.90s.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mtv-90s.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mtv-90s.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">MTV 90s</display-name>
+  </channel>
+  <channel id="Metropola.TV.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/metropola-tv-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/metropola-tv-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Metropola TV HD</display-name>
+  </channel>
+  <channel id="TVR.1.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-1-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-1-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TVR 1 HD</display-name>
+  </channel>
+  <channel id="Happy.Channel.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/happy-channel-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/happy-channel-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Happy Channel HD</display-name>
+  </channel>
+  <channel id="Sorozat+.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/sorozat-plusz.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/sorozat-plusz.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Sorozat+</display-name>
+  </channel>
+  <channel id="RTL.ZWEI.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rtl-zwei.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rtl-zwei.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">RTL ZWEI</display-name>
+  </channel>
+  <channel id="Trace.Urban.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/trace-urban-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/trace-urban-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Trace Urban HD</display-name>
+  </channel>
+  <channel id="TLC.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tlc.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tlc.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TLC</display-name>
+  </channel>
+  <channel id="Profit.News.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/profit-news-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Profit News TV</display-name>
+  </channel>
+  <channel id="Speranta.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/speranta-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/speranta-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Speranta TV</display-name>
+  </channel>
+  <channel id="Film.Now.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/film-now.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/film-now.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Film Now</display-name>
+  </channel>
+  <channel id="Erdely.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/erdely-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/erdely-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Erdely TV</display-name>
+  </channel>
+  <channel id="KIKA.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/kika.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">KIKA</display-name>
+  </channel>
+  <channel id="Job.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/job-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/job-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Job TV</display-name>
+  </channel>
+  <channel id="Cartoon.Network.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cartoon-network.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cartoon-network.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Cartoon Network</display-name>
+  </channel>
+  <channel id="SUPER.TV2.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/super-tv2.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/super-tv2.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">SUPER TV2</display-name>
+  </channel>
+  <channel id="Film.+.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/film-plus.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/film-plus.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Film +</display-name>
+  </channel>
+  <channel id="Penthouse.Gold.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/penthouse-gold.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/penthouse-gold.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Penthouse Gold</display-name>
+  </channel>
+  <channel id="Prima.Sport.5.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-sport-5.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-sport-5.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Prima Sport 5</display-name>
+  </channel>
+  <channel id="PRO.TV.INTERNATIONAL.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/protv-international.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/protv-international.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">PRO TV INTERNATIONAL</display-name>
+  </channel>
+  <channel id="Prima.4K.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-4k.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-4k.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Prima 4K</display-name>
+  </channel>
+  <channel id="Digi.Life.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-life-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-life-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Digi Life HD</display-name>
+  </channel>
+  <channel id="Digi.Sport.2.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-2-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-2-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Digi Sport 2 HD</display-name>
+  </channel>
+  <channel id="FilmBox.Family.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/filmbox-family.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/filmbox-family.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">FilmBox Family</display-name>
+  </channel>
+  <channel id="Prima.Sport.2.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-sport-2.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-sport-2.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Prima Sport 2</display-name>
+  </channel>
+  <channel id="UTV.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/utv-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/utv-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">UTV HD</display-name>
+  </channel>
+  <channel id="TV.Paprika.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tv-paprika-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tv-paprika-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TV Paprika HD</display-name>
+  </channel>
+  <channel id="Trinitas.TV.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/trinitas-tv-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/trinitas-tv-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Trinitas TV HD</display-name>
+  </channel>
+  <channel id="Euronews.Romania.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/euronews-romania.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/euronews-romania.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Euronews Romania</display-name>
+  </channel>
+  <channel id="România.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/romania-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/romania-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">România TV</display-name>
+  </channel>
+  <channel id="Crime.+.Investigation.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/crime-investigation.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/crime-investigation.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Crime + Investigation</display-name>
+  </channel>
+  <channel id="Gametoon.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/gametoon-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/gametoon-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Gametoon HD</display-name>
+  </channel>
+  <channel id="Valea.Prahovei.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/valea-prahovei-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/valea-prahovei-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Valea Prahovei TV</display-name>
+  </channel>
+  <channel id="Duck.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/duck-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/duck-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Duck TV</display-name>
+  </channel>
+  <channel id="Pro.Arena.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/pro-arena-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/pro-arena-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Pro Arena HD</display-name>
+  </channel>
+  <channel id="Orizont.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/orizont-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/orizont-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Orizont TV</display-name>
+  </channel>
+  <channel id="TVR.Târgu.Mureș.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-targu-mures.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-targu-mures.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TVR Târgu Mureș</display-name>
+  </channel>
+  <channel id="MyZen.4K.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/myzen-4k.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/myzen-4k.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">MyZen 4K</display-name>
+  </channel>
+  <channel id="Trace.Caribbean.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/trace-caribbean.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/trace-caribbean.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Trace Caribbean</display-name>
+  </channel>
+  <channel id="Stingray.iConcerts.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/stingray-iconcerts-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/stingray-iconcerts-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Stingray iConcerts HD</display-name>
+  </channel>
+  <channel id="TVR.Sport.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-sport-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-sport-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TVR Sport HD</display-name>
+  </channel>
+  <channel id="Digi.Animal.World.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-animal-world-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-animal-world-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Digi Animal World HD</display-name>
+  </channel>
+  <channel id="Fuel.TV.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/fuel-tv-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/fuel-tv-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Fuel TV HD</display-name>
+  </channel>
+  <channel id="Digi.Animal.World.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-animal-world.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-animal-world.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Digi Animal World</display-name>
+  </channel>
+  <channel id="ZU.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/zu-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/zu-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">ZU TV</display-name>
+  </channel>
+  <channel id="Food.Network.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/food-network.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/food-network.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Food Network</display-name>
+  </channel>
+  <channel id="Prima.Sport.4.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-sport-4.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-sport-4.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Prima Sport 4</display-name>
+  </channel>
+  <channel id="Euronews.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/euronews.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/euronews.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Euronews</display-name>
+  </channel>
+  <channel id="Cinemax.2.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cinemax-2.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cinemax-2.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Cinemax 2</display-name>
+  </channel>
+  <channel id="Animal.Planet.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/animal-planet-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/animal-planet-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Animal Planet HD</display-name>
+  </channel>
+  <channel id="România.TV.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/romania-tv-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/romania-tv-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">România TV HD</display-name>
+  </channel>
+  <channel id="Acasa.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/acasa.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/acasa.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Acasa</display-name>
+  </channel>
+  <channel id="Trinitas.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/trinitas-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/trinitas-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Trinitas TV</display-name>
+  </channel>
+  <channel id="TVR.Cluj.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-cluj.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-cluj.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TVR Cluj</display-name>
+  </channel>
+  <channel id="3sat.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/3sat.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">3sat</display-name>
+  </channel>
+  <channel id="TVR.Iași.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-iasi.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-iasi.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TVR Iași</display-name>
+  </channel>
+  <channel id="M2.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/m2.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/m2.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">M2</display-name>
+  </channel>
+  <channel id="Club.MTV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/club-mtv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/club-mtv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Club MTV</display-name>
+  </channel>
+  <channel id="Film.+.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/film-plus-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/film-plus-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Film + HD</display-name>
+  </channel>
+  <channel id="Acasa.Gold.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/acasa-gold-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/acasa-gold-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Acasa Gold HD</display-name>
+  </channel>
+  <channel id="Eurosport.4K.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/eurosport-4k.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/eurosport-4k.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Eurosport 4K</display-name>
+  </channel>
+  <channel id="Stingray.Djazz.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/stingray-djazz.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/stingray-djazz.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Stingray Djazz</display-name>
+  </channel>
+  <channel id="National.Geographic.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/national-geographic-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/national-geographic-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">National Geographic HD</display-name>
+  </channel>
+  <channel id="Aleph.News.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/aleph-news.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/aleph-news.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Aleph News</display-name>
+  </channel>
+  <channel id="Etno.TV.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/etno-tv-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/etno-tv-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Etno TV HD</display-name>
+  </channel>
+  <channel id="HBO.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/hbo.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/hbo.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">HBO</display-name>
+  </channel>
+  <channel id="Litoral.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/litoral-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/litoral-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Litoral TV</display-name>
+  </channel>
+  <channel id="Digi.Sport.3.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-3.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-3.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Digi Sport 3</display-name>
+  </channel>
+  <channel id="VOX.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/vox.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/vox.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">VOX</display-name>
+  </channel>
+  <channel id="Mooz.Hits.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mooz-hits.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mooz-hits.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Mooz Hits</display-name>
+  </channel>
+  <channel id="ARD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/ard.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/ard.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">ARD</display-name>
+  </channel>
+  <channel id="National.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/national-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/national-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">National TV</display-name>
+  </channel>
+  <channel id="Bollywood.Stars.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/bollywood-stars-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/bollywood-stars-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Bollywood Stars HD</display-name>
+  </channel>
+  <channel id="Antena.3.CNN.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-3-cnn-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-3-cnn-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Antena 3 CNN HD</display-name>
+  </channel>
+  <channel id="TVE.Internacional.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tve-internacional.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tve-internacional.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TVE Internacional</display-name>
+  </channel>
+  <channel id="Film4.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/film4.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/film4.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Film4</display-name>
+  </channel>
+  <channel id="CBS.Reality.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cbs-reality.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cbs-reality.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">CBS Reality</display-name>
+  </channel>
+  <channel id="B1.TV.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/b1-tv-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/b1-tv-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">B1 TV HD</display-name>
+  </channel>
+  <channel id="Film.Now.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/film-now-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/film-now-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Film Now HD</display-name>
+  </channel>
+  <channel id="Moldova.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/moldova-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/moldova-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Moldova TV</display-name>
+  </channel>
+  <channel id="Playboy.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/playboy-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/playboy-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Playboy TV</display-name>
+  </channel>
+  <channel id="AMC.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/amc.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/amc.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">AMC</display-name>
+  </channel>
+  <channel id="History.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/history.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/history.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">History</display-name>
+  </channel>
+  <channel id="Bloomberg.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/bloomberg.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/bloomberg.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Bloomberg</display-name>
+  </channel>
+  <channel id="Kapital.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/kapital-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/kapital-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Kapital TV</display-name>
+  </channel>
+  <channel id="Deutsche.Welle.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/deutsche-welle.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/deutsche-welle.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Deutsche Welle</display-name>
+  </channel>
+  <channel id="Comedy.Central.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/comedy-central.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/comedy-central.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Comedy Central</display-name>
+  </channel>
+  <channel id="National.Geographic.Wild.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/national-geographic-wild-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/national-geographic-wild-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">National Geographic Wild HD</display-name>
+  </channel>
+  <channel id="TVR.Craiova.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-craiova.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-craiova.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TVR Craiova</display-name>
+  </channel>
+  <channel id="MTV.00s.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mtv-00s.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mtv-00s.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">MTV 00s</display-name>
+  </channel>
+  <channel id="ZDF.neo.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/zdf-neo.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">ZDF neo</display-name>
+  </channel>
+  <channel id="BBC.First.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/bbc-first.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/bbc-first.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">BBC First</display-name>
+  </channel>
+  <channel id="Love.Nature.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/love-nature.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/love-nature.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Love Nature</display-name>
+  </channel>
+  <channel id="BBC.Earth.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/bbc-earth-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/bbc-earth-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">BBC Earth HD</display-name>
+  </channel>
+  <channel id="Filmbox.Stars.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/filmbox-stars.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/filmbox-stars.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Filmbox Stars</display-name>
+  </channel>
+  <channel id="Nick.Jr.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/nick-jr.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/nick-jr.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Nick Jr</display-name>
+  </channel>
+  <channel id="HBO.3.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/hbo-3.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/hbo-3.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">HBO 3</display-name>
+  </channel>
+  <channel id="ZDF.info.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/zdf-info.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">ZDF info</display-name>
+  </channel>
+  <channel id="Nat.Geo.People.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/nat-geo-people-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/nat-geo-people-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Nat Geo People HD</display-name>
+  </channel>
+  <channel id="Cinemaraton.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cinemaraton.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cinemaraton.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Cinemaraton</display-name>
+  </channel>
+  <channel id="Pro.Cinema.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/pro-cinema-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/pro-cinema-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Pro Cinema HD</display-name>
+  </channel>
+  <channel id="FunBox.UHD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/funbox-uhd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/funbox-uhd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">FunBox UHD</display-name>
+  </channel>
+  <channel id="Disney.Channel.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/disney-channel.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/disney-channel.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Disney Channel</display-name>
+  </channel>
+  <channel id="HBO.2.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/hbo-2.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/hbo-2.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">HBO 2</display-name>
+  </channel>
+  <channel id="Travelxp.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/travelxp-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/travelxp-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Travelxp HD</display-name>
+  </channel>
+  <channel id="Warner.TV.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/warner-tv-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/warner-tv-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Warner TV HD</display-name>
+  </channel>
+  <channel id="RTL.KETTŐ.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rtl-ketto.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rtl-ketto.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">RTL KETTŐ</display-name>
+  </channel>
+  <channel id="MTV.Europe.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mtv-europe.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mtv-europe.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">MTV Europe</display-name>
+  </channel>
+  <channel id="TV.City.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tv-city-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TV City HD</display-name>
+  </channel>
+  <channel id="Nat.Geo.People.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/nat-geo-people.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/nat-geo-people.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Nat Geo People</display-name>
+  </channel>
+  <channel id="TVR.2.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-2-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-2-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TVR 2 HD</display-name>
+  </channel>
+  <channel id="Hustler.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/hustler-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/hustler-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Hustler HD</display-name>
+  </channel>
+  <channel id="Duna.World.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/duna-world-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/duna-world-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Duna World HD</display-name>
+  </channel>
+  <channel id="Music.Channel.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/music-channel.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/music-channel.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Music Channel</display-name>
+  </channel>
+  <channel id="Disney.Junior.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/disney-junior.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/disney-junior.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Disney Junior</display-name>
+  </channel>
+  <channel id="History.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/history-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/history-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">History HD</display-name>
+  </channel>
+  <channel id="RTL.Nitro.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rtl-nitro.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rtl-nitro.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">RTL Nitro</display-name>
+  </channel>
+  <channel id="TV2.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tv2-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tv2-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TV2 HD</display-name>
+  </channel>
+  <channel id="arte.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/arte.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">arte</display-name>
+  </channel>
+  <channel id="Extreme.Sports.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/extreme-sports-channel.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/extreme-sports-channel.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Extreme Sports</display-name>
+  </channel>
+  <channel id="Pro.Arena.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/pro-arena.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/pro-arena.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Pro Arena</display-name>
+  </channel>
+  <channel id="Rai.2.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rai-2.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rai-2.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Rai 2</display-name>
+  </channel>
+  <channel id="Comedy.Central.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/comedy-central-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/comedy-central-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Comedy Central HD</display-name>
+  </channel>
+  <channel id="Eurosport.2.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/eurosport-2-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/eurosport-2-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Eurosport 2 HD</display-name>
+  </channel>
+  <channel id="Erox.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/erox-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/erox-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Erox HD</display-name>
+  </channel>
+  <channel id="Nautical.Channel.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/nautical-channel.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/nautical-channel.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Nautical Channel</display-name>
+  </channel>
+  <channel id="Eroxxx.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/eroxxx-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/eroxxx-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Eroxxx HD</display-name>
+  </channel>
+  <channel id="Rai.3.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rai-3.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rai-3.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Rai 3</display-name>
+  </channel>
+  <channel id="BBC.News.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/bbc-news-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/bbc-news-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">BBC News HD</display-name>
+  </channel>
+  <channel id="Digi.Sport.2.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-2.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-2.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Digi Sport 2</display-name>
+  </channel>
+  <channel id="Digi.Life.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-life.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-life.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Digi Life</display-name>
+  </channel>
+  <channel id="Etno.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/etno-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/etno-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Etno TV</display-name>
+  </channel>
+  <channel id="TV5.Monde.Europe.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tv5-monde-europe.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tv5-monde-europe.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TV5 Monde Europe</display-name>
+  </channel>
+  <channel id="auto.motor.und.sport.channel.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/auto-motor-und-sport-channel.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/auto-motor-und-sport-channel.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">auto motor und sport channel</display-name>
+  </channel>
+  <channel id="CNN.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cnn-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cnn-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">CNN HD</display-name>
+  </channel>
+  <channel id="360TuneBox.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/360tunebox.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/360tunebox.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">360TuneBox</display-name>
+  </channel>
+  <channel id="TV.Paprika.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tv-paprika.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tv-paprika.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TV Paprika</display-name>
+  </channel>
+  <channel id="ZDF.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/zdf.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">ZDF</display-name>
+  </channel>
+  <channel id="M5.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/m5-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/m5-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">M5 HD</display-name>
+  </channel>
+  <channel id="Bollywood.Stars.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/bollywood-stars.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/bollywood-stars.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Bollywood Stars</display-name>
+  </channel>
+  <channel id="Discovery.Channel.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/discovery-channel.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/discovery-channel.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Discovery Channel</display-name>
+  </channel>
+  <channel id="AXN.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/axn.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/axn.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">AXN</display-name>
+  </channel>
+  <channel id="LUXE.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/luxe-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/luxe-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">LUXE TV</display-name>
+  </channel>
+  <channel id="Travel.Mix.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/travel-mix.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/travel-mix.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Travel Mix</display-name>
+  </channel>
+  <channel id="Timeless.Dizi.Channel.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/timeless-dizi-channel-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Timeless Dizi Channel HD</display-name>
+  </channel>
+  <channel id="Stingray.Classica.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/stingray-classica.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/stingray-classica.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Stingray Classica</display-name>
+  </channel>
+  <channel id="Eurosport.2.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/eurosport-2.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/eurosport-2.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Eurosport 2</display-name>
+  </channel>
+  <channel id="Balkanika.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/balkanika-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/balkanika-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Balkanika TV</display-name>
+  </channel>
+  <channel id="Cinemax.2.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cinemax-2-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cinemax-2-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Cinemax 2 HD</display-name>
+  </channel>
+  <channel id="Food.Network.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/food-network-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/food-network-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Food Network HD</display-name>
+  </channel>
+  <channel id="TVR.Timișoara.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-timisoara.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-timisoara.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TVR Timișoara</display-name>
+  </channel>
+  <channel id="Shop.on.TV.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/shop-on-tv-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/shop-on-tv-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Shop on TV HD</display-name>
+  </channel>
+  <channel id="RTL.KETTŐ.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rtl-ketto-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rtl-ketto-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">RTL KETTŐ HD</display-name>
+  </channel>
+  <channel id="HGTV.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/hgtv-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/hgtv-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">HGTV HD</display-name>
+  </channel>
+  <channel id="Sixx.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/sixx.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/sixx.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Sixx</display-name>
+  </channel>
+  <channel id="Credo.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/credo-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/credo-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Credo TV</display-name>
+  </channel>
+  <channel id="Eurosport.1.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/eurosport-1-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/eurosport-1-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Eurosport 1 HD</display-name>
+  </channel>
+  <channel id="Pro.Cinema.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/pro-cinema.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/pro-cinema.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Pro Cinema</display-name>
+  </channel>
+  <channel id="MyZen.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/myzen-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/myzen-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">MyZen HD</display-name>
+  </channel>
+  <channel id="Prima.Sport.4.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-sport-4-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-sport-4-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Prima Sport 4 HD</display-name>
+  </channel>
+  <channel id="Animal.Planet.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/animal-planet.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/animal-planet.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Animal Planet</display-name>
+  </channel>
+  <channel id="Antena.3.CNN.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-3-cnn.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-3-cnn.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Antena 3 CNN</display-name>
+  </channel>
+  <channel id="The.Fishing.&amp;.Hunting.Channel.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/the-fishing-and-hunting-channel.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/the-fishing-and-hunting-channel.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">The Fishing &amp; Hunting Channel</display-name>
+  </channel>
+  <channel id="Da.Vinci.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/da-vinci.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/da-vinci.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Da Vinci</display-name>
+  </channel>
+  <channel id="Redlight.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/redlight-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/redlight-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Redlight HD</display-name>
+  </channel>
+  <channel id="Digi.Sport.3.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-3-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-3-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Digi Sport 3 HD</display-name>
+  </channel>
+  <channel id="TVR.1.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-1.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-1.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TVR 1</display-name>
+  </channel>
+  <channel id="Nickelodeon.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/nickelodeon-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/nickelodeon-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Nickelodeon HD</display-name>
+  </channel>
+  <channel id="TVR.International.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-international.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-international.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TVR International</display-name>
+  </channel>
+  <channel id="Telestar.1.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/telestar-1.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/telestar-1.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Telestar 1</display-name>
+  </channel>
+  <channel id="PHOENIX.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/phoenix.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">PHOENIX</display-name>
+  </channel>
+  <channel id="Nasul.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/nasul-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/nasul-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Nasul TV</display-name>
+  </channel>
+  <channel id="RTL.Super!.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rtl-super.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rtl-super.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">RTL Super!</display-name>
+  </channel>
+  <channel id="BBC.Earth.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/bbc-earth.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/bbc-earth.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">BBC Earth</display-name>
+  </channel>
+  <channel id="E!.Entertainment.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/e-entertainment.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/e-entertainment.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">E! Entertainment</display-name>
+  </channel>
+  <channel id="Realitatea.Plus.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/realitatea-plus.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/realitatea-plus.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Realitatea Plus</display-name>
+  </channel>
+  <channel id="Medika.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/medika-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/medika-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Medika TV</display-name>
+  </channel>
+  <channel id="Eurosport.1.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/eurosport-1.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/eurosport-1.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Eurosport 1</display-name>
+  </channel>
+  <channel id="Prima.Sport.5.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-sport-5-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-sport-5-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Prima Sport 5 HD</display-name>
+  </channel>
+  <channel id="RTL.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rtl.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rtl.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">RTL</display-name>
+  </channel>
+  <channel id="Prima.Sport.2.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-sport-2-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-sport-2-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Prima Sport 2 HD</display-name>
+  </channel>
+  <channel id="Duck.TV.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/duck-tv-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/duck-tv-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Duck TV HD</display-name>
+  </channel>
+  <channel id="Warner.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/warner-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/warner-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Warner TV</display-name>
+  </channel>
+  <channel id="Filmbox.Premium.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/filmbox-premium.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/filmbox-premium.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Filmbox Premium</display-name>
+  </channel>
+  <channel id="H!T.Music.Channel.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/hit-music-channel.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/hit-music-channel.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">H!T Music Channel</display-name>
+  </channel>
+  <channel id="Nickelodeon.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/nickelodeon.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/nickelodeon.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Nickelodeon</display-name>
+  </channel>
+  <channel id="Muzsika.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/muzsika-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/muzsika-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Muzsika TV</display-name>
+  </channel>
+  <channel id="Acasa.Gold.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/acasa-gold.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/acasa-gold.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Acasa Gold</display-name>
+  </channel>
+  <channel id="BBC.News.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/bbc-news.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/bbc-news.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">BBC News</display-name>
+  </channel>
+  <channel id="Sport.Extra.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/sport-extra.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/sport-extra.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Sport Extra</display-name>
+  </channel>
+  <channel id="FILM.CAFE.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/film-cafe.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/film-cafe.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">FILM CAFE</display-name>
+  </channel>
+  <channel id="BabyTV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/babytv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/babytv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">BabyTV</display-name>
+  </channel>
+  <channel id="RTL.HU.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rtl-hu-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rtl-hu-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">RTL HU HD</display-name>
+  </channel>
+  <channel id="UTV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/utv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/utv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">UTV</display-name>
+  </channel>
+  <channel id="ZU.TV.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/zu-tv-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/zu-tv-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">ZU TV HD</display-name>
+  </channel>
+  <channel id="TV.Sud.Est.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tv-sud-est.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tv-sud-est.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TV Sud Est</display-name>
+  </channel>
+  <channel id="Mooz.Dance.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mooz-dance.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mooz-dance.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Mooz Dance</display-name>
+  </channel>
+  <channel id="Disco.Mix.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/disco-mix.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/disco-mix.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Disco Mix HD</display-name>
+  </channel>
+  <channel id="Digi.World.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-world-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-world-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Digi World HD</display-name>
+  </channel>
+  <channel id="Jimjam.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/jimjam.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/jimjam.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Jimjam</display-name>
+  </channel>
+  <channel id="Prima.World.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-world.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-world.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Prima World</display-name>
+  </channel>
+  <channel id="Kiss.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/kiss-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/kiss-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Kiss TV</display-name>
+  </channel>
+  <channel id="MTV.Live.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mtv-live-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mtv-live-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">MTV Live HD</display-name>
+  </channel>
+  <channel id="France.2.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/france-2.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/france-2.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">France 2</display-name>
+  </channel>
+  <channel id="TV1000.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tv1000.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TV1000</display-name>
+  </channel>
+  <channel id="TVR.Info.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-info.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-info.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TVR Info</display-name>
+  </channel>
+  <channel id="MTV.Hits.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mtv-hits.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mtv-hits.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">MTV Hits</display-name>
+  </channel>
+  <channel id="Rapsodia.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rapsodia-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rapsodia-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Rapsodia TV</display-name>
+  </channel>
+  <channel id="Prima.Sport.3.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-sport-3.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-sport-3.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Prima Sport 3</display-name>
+  </channel>
+  <channel id="Viasat.Explore.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/viasat-explore-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/viasat-explore-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Viasat Explore HD</display-name>
+  </channel>
+  <channel id="Mezzo.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mezzo.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mezzo.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Mezzo</display-name>
+  </channel>
+  <channel id="TRACE.Sport.Stars.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/trace-sport-stars.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/trace-sport-stars.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TRACE Sport Stars HD</display-name>
+  </channel>
+  <channel id="Duna.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/duna-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/duna-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Duna HD</display-name>
+  </channel>
+  <channel id="Happy.Channel.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/happy-channel.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/happy-channel.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Happy Channel</display-name>
+  </channel>
+  <channel id="The.Fishing.&amp;.Hunting.Channel.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/the-fishing-and-hunting-channel-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/the-fishing-and-hunting-channel-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">The Fishing &amp; Hunting Channel HD</display-name>
+  </channel>
+  <channel id="Sat.1.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/sat-1.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/sat-1.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Sat 1</display-name>
+  </channel>
+  <channel id="EMI.TV.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/emi-tv-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/emi-tv-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">EMI TV HD</display-name>
+  </channel>
+  <channel id="GINX.Esports.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/ginx-esports-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/ginx-esports-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">GINX Esports TV</display-name>
+  </channel>
+  <channel id="National.Geographic.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/national-geographic.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/national-geographic.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">National Geographic</display-name>
+  </channel>
+  <channel id="Antena.1.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-1-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-1-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Antena 1 HD</display-name>
+  </channel>
+  <channel id="Acasa.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/acasa-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/acasa-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Acasa HD</display-name>
+  </channel>
+  <channel id="Antena.International.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-international-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-international-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Antena International HD</display-name>
+  </channel>
+  <channel id="TVR.Cultural.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-cultural.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-cultural.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TVR Cultural</display-name>
+  </channel>
+  <channel id="A7TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/a7tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/a7tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">A7TV</display-name>
+  </channel>
+  <channel id="Bollywood.FILM.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/bollywood-film.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/bollywood-film.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Bollywood FILM</display-name>
+  </channel>
+  <channel id="Exploris.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/exploris-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/exploris-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Exploris TV</display-name>
+  </channel>
+  <channel id="Prima.Sport.1.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-sport-1.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-sport-1.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Prima Sport 1</display-name>
+  </channel>
+  <channel id="Taraf.TV.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/taraf-tv-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/taraf-tv-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Taraf TV HD</display-name>
+  </channel>
+  <channel id="Nicktoons.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/nicktoons.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/nicktoons.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Nicktoons</display-name>
+  </channel>
+  <channel id="Mooz.Ro.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mooz-ro.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mooz-ro.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Mooz Ro</display-name>
+  </channel>
+  <channel id="Al.Jazeera.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/al-jazeera.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/al-jazeera.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Al Jazeera</display-name>
+  </channel>
+  <channel id="Cool.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cool-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cool-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Cool TV</display-name>
+  </channel>
+  <channel id="Viasat.Nature.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/viasat-nature-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/viasat-nature-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Viasat Nature HD</display-name>
+  </channel>
+  <channel id="Museum.4k.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/museum-4k.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/museum-4k.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Museum 4k</display-name>
+  </channel>
+  <channel id="Fashion.TV.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/fashion-tv-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/fashion-tv-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Fashion TV HD</display-name>
+  </channel>
+  <channel id="France.24.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/france-24.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/france-24.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">France 24</display-name>
+  </channel>
+  <channel id="Antena.Stars.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-stars.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-stars.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Antena Stars</display-name>
+  </channel>
+  <channel id="Digi.Sport.1.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-1.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-1.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Digi Sport 1</display-name>
+  </channel>
+  <channel id="Viasat.History.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/viasat-history.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/viasat-history.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Viasat History</display-name>
+  </channel>
+  <channel id="Fight.Box.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/fight-box-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/fight-box-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Fight Box HD</display-name>
+  </channel>
+  <channel id="E!.Entertainment.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/e-entertainment-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/e-entertainment-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">E! Entertainment HD</display-name>
+  </channel>
+  <channel id="Agro.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/agro-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/agro-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Agro TV</display-name>
+  </channel>
+  <channel id="Diva.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/diva.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/diva.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Diva</display-name>
+  </channel>
+  <channel id="TeleMoldova.Plus.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/telemoldova-plus.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/telemoldova-plus.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TeleMoldova Plus</display-name>
+  </channel>
+  <channel id="Mediaset.Italia.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mediaset-italia.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/mediaset-italia.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Mediaset Italia</display-name>
+  </channel>
+  <channel id="Welt.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/welt.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/welt.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Welt</display-name>
+  </channel>
+  <channel id="Blue.Hustler.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/blue-hustler.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/blue-hustler.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Blue Hustler</display-name>
+  </channel>
+  <channel id="RTL.HÁROM.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rtl-harom-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rtl-harom-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">RTL HÁROM HD</display-name>
+  </channel>
+  <channel id="CineMAX.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cinemax.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cinemax.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">CineMAX</display-name>
+  </channel>
+  <channel id="RT.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rt-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">RT HD</display-name>
+  </channel>
+  <channel id="Taraf.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/taraf-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/taraf-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Taraf TV</display-name>
+  </channel>
+  <channel id="Canal.33.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/canal-33.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/canal-33.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Canal 33</display-name>
+  </channel>
+  <channel id="Kanal.D.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/kanal-d.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/kanal-d.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Kanal D</display-name>
+  </channel>
+  <channel id="B1.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/b1-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/b1-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">B1 TV</display-name>
+  </channel>
+  <channel id="Duna.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/duna.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/duna.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Duna</display-name>
+  </channel>
+  <channel id="Digi.Sport.4.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-4.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-4.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Digi Sport 4</display-name>
+  </channel>
+  <channel id="Party.Mix.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/party-mix.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/party-mix.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Party Mix</display-name>
+  </channel>
+  <channel id="RTL.HU.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rtl-hu.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rtl-hu.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">RTL HU</display-name>
+  </channel>
+  <channel id="HBO.2.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/hbo-2-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/hbo-2-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">HBO 2 HD</display-name>
+  </channel>
+  <channel id="National.24.Plus.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/national-24-plus.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/national-24-plus.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">National 24 Plus</display-name>
+  </channel>
+  <channel id="Film.Mania.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/film-mania.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/film-mania.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Film Mania</display-name>
+  </channel>
+  <channel id="FilmBox.Extra.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/filmbox-extra-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/filmbox-extra-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">FilmBox Extra HD</display-name>
+  </channel>
+  <channel id="EMI.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/emi-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/emi-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">EMI TV</display-name>
+  </channel>
+  <channel id="HBO.3.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/hbo-3-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/hbo-3-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">HBO 3 HD</display-name>
+  </channel>
+  <channel id="HBO.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/hbo-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/hbo-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">HBO HD</display-name>
+  </channel>
+  <channel id="Minimax.HU.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/minimax-hu.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/minimax-hu.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Minimax HU</display-name>
+  </channel>
+  <channel id="TV4.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tv4.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tv4.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TV4</display-name>
+  </channel>
+  <channel id="Kabel.1.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/kabel-1.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/kabel-1.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Kabel 1</display-name>
+  </channel>
+  <channel id="Travel.Channel.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/travel-channel-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Travel Channel HD</display-name>
+  </channel>
+  <channel id="24.Mix.Teleshop.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/24-mix-teleshop-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/24-mix-teleshop-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">24 Mix Teleshop HD</display-name>
+  </channel>
+  <channel id="auto.motor.und.sport.channel.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/auto-motor-und-sport-channel-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/auto-motor-und-sport-channel-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">auto motor und sport channel HD</display-name>
+  </channel>
+  <channel id="Rock.TV.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rock-tv-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/rock-tv-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Rock TV HD</display-name>
+  </channel>
+  <channel id="TVR.Folclor.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-folclor.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-folclor.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TVR Folclor</display-name>
+  </channel>
+  <channel id="TraLaLa.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tralala-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tralala-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TraLaLa HD</display-name>
+  </channel>
+  <channel id="TV.Paprika.HU.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tv-paprika-hu.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/tv-paprika-hu.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">TV Paprika HU</display-name>
+  </channel>
+  <channel id="M1.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/m1.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/m1.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">M1</display-name>
+  </channel>
+  <channel id="Galaxy4.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/galaxy4.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/galaxy4.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Galaxy4</display-name>
+  </channel>
+  <channel id="AXN.White.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/axn-white.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/axn-white.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">AXN White</display-name>
+  </channel>
+  <channel id="Epic.Drama.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/epic-drama.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/epic-drama.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Epic Drama</display-name>
+  </channel>
+  <channel id="AMC.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/amc-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/amc-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">AMC HD</display-name>
+  </channel>
+  <channel id="Smart.TV.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/smart-tv-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/smart-tv-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Smart TV HD</display-name>
+  </channel>
+  <channel id="National.Geographic.Wild.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/national-geographic-wild.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/national-geographic-wild.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">National Geographic Wild</display-name>
+  </channel>
+  <channel id="FilmBox.Arthouse.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/filmbox-arthouse.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/filmbox-arthouse.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">FilmBox Arthouse</display-name>
+  </channel>
+  <channel id="Hustler.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/hustler-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/hustler-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Hustler TV</display-name>
+  </channel>
+  <channel id="Metropola.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/metropola-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/metropola-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Metropola TV</display-name>
+  </channel>
+  <channel id="Antena.1.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-1.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-1.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Antena 1</display-name>
+  </channel>
+  <channel id="Cinemax.HD.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cinemax-hd.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/cinemax-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Cinemax HD</display-name>
+  </channel>
+  <channel id="Digi.24.ro">
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-24.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-24.jpg" />
+    <url>http://www.cinemagia.ro</url>
+    <display-name lang="ro">Digi 24</display-name>
+  </channel>
+</tv>
